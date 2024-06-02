@@ -1,6 +1,7 @@
 # Hi there, I'm [Muhammad Qadeer Anjum] 👋
 
-![Profile views](https://gpvc.arturio.dev/QadeerAnjum)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=QadeerAnjum)
+
 [![GitHub followers](https://img.shields.io/github/followers/QadeerAnjum?label=Follow&style=social)](https://github.com/QadeerAnjum)
 
 ## About Me
