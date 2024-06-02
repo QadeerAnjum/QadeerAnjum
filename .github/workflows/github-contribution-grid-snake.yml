@@ -1,0 +1,16 @@
+name: Generate Snake
+
+on:
+  schedule: # Run at 00:00 on every day-of-week from Monday through Sunday.
+    - cron: "0 0 * * 0-6"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
