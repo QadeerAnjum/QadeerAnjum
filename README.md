@@ -1,4 +1,5 @@
-# Hi there, I'm [Muhammad Qadeer Anjum] 👋
+# Hi there,
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Muhammad+Bilal+Ellahi)](https://git.io/typing-svg)
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=QadeerAnjum)
 
