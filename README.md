@@ -66,7 +66,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=37b39a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+full-stack+developer.;I+love+coding+and+learning+new+things.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=37b39a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+Aspiring-Data+Scientist.;I+love+coding+and+learning+new+things.)
 
 ---
 
