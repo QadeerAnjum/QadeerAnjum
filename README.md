@@ -40,7 +40,10 @@
 
 ## Animations
 
-![Snake animation](https://github.com/QadeerAnjum/QadeerAnjum/blob/output/github-contribution-grid-snake.yml)
+## Animations
+
+![Snake animation](https://github.com/QadeerAnjum/QadeerAnjum/blob/output/dist/snake.svg)
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=37b39a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+full-stack+developer.;I+love+coding+and+learning+new+things.)
 
