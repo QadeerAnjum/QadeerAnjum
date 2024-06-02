@@ -40,7 +40,7 @@
 
 ## Animations
 
-## Animations
+
 
 ![Snake animation](https://github.com/QadeerAnjum/QadeerAnjum/blob/output/dist/snake.svg)
 
