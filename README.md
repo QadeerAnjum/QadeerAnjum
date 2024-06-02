@@ -5,8 +5,8 @@
 
 ## About Me
 
-🎓 I am a software developer with a passion for learning and building innovative solutions.  
-🌱 Currently exploring **[Your Interest or Current Learning Focus]**.  
+🎓 I am a Computer Science Student with a passion for learning Data Science and Machine Learning.  
+🌱 Currently exploring **[Data Science]**.  
 🚀 I love contributing to open-source projects and collaborating with other developers.
 
 ## Skills
@@ -40,9 +40,6 @@
 
 ## Animations
 
-
-
-![Snake animation](https://github.com/QadeerAnjum/QadeerAnjum/blob/output/dist/snake.svg)
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=37b39a&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+am+a+full-stack+developer.;I+love+coding+and+learning+new+things.)
